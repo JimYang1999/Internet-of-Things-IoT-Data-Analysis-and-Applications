@@ -1,0 +1,12 @@
+prompt,outdir,init_img,skip_grid,skip_save,ddim_steps,ddim_eta,n_iter,H,W,strength,n_samples,n_rows,scale,from_file,seed,device,unet_bs,turbo,precision,format,sampler
+Austrian alps,outputs/img2img-samples,~/test.jpg,False,False,50,0.0,2,512,512,0.8,5,0,7.5,,478506,cuda,1,False,autocast,png,ddim
+Austrian alps,outputs/img2img-samples,/test.jpg,False,False,50,0.0,2,512,512,0.8,5,0,7.5,,94221,cuda,1,False,autocast,png,ddim
+Austrian alps,outputs/img2img-samples,~/test.jpg,False,False,50,0.0,2,512,512,0.8,5,0,7.5,,183738,cuda,1,False,autocast,png,ddim
+Austrian alps,outputs/img2img-samples,~/test.jpg,False,False,50,0.0,2,512,512,0.8,5,0,7.5,,501009,cuda,1,False,autocast,png,ddim
+Austrian alps,outputs/img2img-samples,./test.jpg,False,False,50,0.0,2,512,512,0.8,5,0,7.5,,769695,cuda,1,False,autocast,png,ddim
+Austrian alps,outputs/img2img-samples,./test.jpg,False,False,50,0.0,1,512,512,0.8,1,0,7.5,,138052,cuda,1,False,full,png,ddim
+a painting of a virus monster playing guitar,outputs/img2img-samples,./test.jpg,False,False,50,0.0,1,512,512,0.8,1,0,7.5,,949803,cuda,1,False,full,png,ddim
+a painting of a virus monster playing guitar,outputs/img2img-samples,~/test.jpg,False,False,50,0.0,2,512,512,0.8,5,0,7.5,,667624,cuda,1,False,full,png,ddim
+a painting of a virus monster playing guitar,outputs/img2img-samples,./test.jpg,False,False,50,0.0,1,512,512,0.8,1,0,7.5,,685732,cuda,1,False,full,png,ddim
+a painting of a virus monster playing guitar,outputs/img2img-samples,./test.jpg,False,False,50,0.0,1,512,512,0.8,5,0,7.5,,714196,cuda,1,False,full,png,ddim
+painter,outputs/img2img-samples,./test.jpg,False,False,50,0.0,1,512,512,0.8,5,0,7.5,,937205,cuda,1,False,full,png,ddim

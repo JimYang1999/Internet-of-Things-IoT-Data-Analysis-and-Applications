@@ -1,0 +1,61 @@
+prompt,outdir,skip_grid,skip_save,ddim_steps,fixed_code,ddim_eta,n_iter,H,W,C,f,n_samples,n_rows,scale,device,from_file,seed,unet_bs,turbo,precision,format,sampler,ckpt
+Cyberpunk style image of a Tesla car reflection in rain,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,5,0,7.5,cuda,,27,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Cyberpunk style image of a Tesla car reflection in rain,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,5,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Cyberpunk style image of a Tesla car reflection in rain,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a pig and dog on the universe,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a superman and dock,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a watercolor paining of a chair that looks like an octopus,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a cantaloupe like bear,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a bear have cantaloupe color,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a bear have cantaloupe skin,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a bird on the lion,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a bugcat have blue skin ,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+fish,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+fishman,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a dog and pig are fight,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a pig on the sky,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+three head dog,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+fireman,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+paradise ,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+angry dog,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Taiwan,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+china,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+robot,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+robot cat and real cow,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+random,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+time ,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Cerberus,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+python,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+they are like cats and mice,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+貓,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+who are you,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+the girl as strong as an ox,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Felis nigripes,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+cat walk on the sea,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Big bubblee tea,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Noddles,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Big feetm monster,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+lady,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+banz,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,5,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a cat like mice,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,5,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a cat like mice,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,5,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a cat like mice,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a mice like cat,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+koala,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+army,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Thrones,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+A cute panda wearing a pink horned hat,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Crayon Shin-chan,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+The Banks Of Sacramento,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+cool cat is Cool cat smoking a cigarette by the window,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+cute cat smoking,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Hear the angel sing,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Camels in the desert are grazing,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+The Gods Must Be Crazy,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+brother and sister,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+teacher licking students feet ,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+teacher licking students feet,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+happy,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+anime girl celebrating christmas,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+santa,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+old lady firing machine gun,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,27,1,False,full,png,plms,models/ldm/stable-diffusion-v1/model.ckpt

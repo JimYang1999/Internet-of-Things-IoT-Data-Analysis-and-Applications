@@ -1,0 +1,24 @@
+https://www.learncodewithmike.com/2020/06/python-line-bot.html
+
+
+open https://dashboard.ngrok.com/get-started/setup and got token
+'token'
+
+open ngrok.exe
+$ ngrok authtoken 'token'
+$ ngrok http 8000
+
+-------
+got the url: https://abc.jp.ngrok.io
+
+enter url to  webhook URL (https://developers.line.biz/console/)
+and  setting.py->ALLOWED_HOSTS 
+
+ALLOWED_HOSTS = [
+    'abc.jp.ngrok.io'  #允許的網域名稱
+]
+
+-------
+
+open vsconde
+enter : python manage.py runserver
